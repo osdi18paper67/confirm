@@ -1,0 +1,5 @@
+<h1><i><font color="#0074D9">CONFIRM</font></i> &mdash; <i><font color="#0074D9">CONFI</font></i>dence-based <i><font color="#0074D9">R</font></i>epetition <i><font color="#0074D9">M</font></i>eter</h1>
+
+<p><b>Input:</b> Large volume of historical performance measurements collected on <a href="https://www.cloudlab.us">CloudLab</a> for different clusters, hardware types, and benchmarks.</p>
+<p><b>Output:</b> Practical visualizations and statistical measures for selected subsets of interest from the input data.</p>
+<p><b>Objective:</b> Analysis of node-to-node variation and estimation of the desired number of experiments to be run on the selected nodes.</p>
